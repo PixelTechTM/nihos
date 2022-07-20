@@ -1,2 +1,2 @@
 # nihos
-Neural interface hardened operating system 
+## Neural interface hardened operating system 
